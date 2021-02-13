@@ -39,6 +39,7 @@ export const FoodImageContainer = styled.View`
   overflow: hidden;
   border-top-right-radius: 8px;
   border-top-left-radius: 8px;
+  align-items: center;
 `;
 
 export const FoodContent = styled.View`
